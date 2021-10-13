@@ -7,7 +7,7 @@
     [ValueConversion(typeof(DateTime), typeof(string))]
     public class DateConverter : IValueConverter
     {
-        public string Format { get; set; } = "yyyy-MM-dd HH:mm:ss.fff";
+        public string Format { get; set; } = "yyyy-MM-dd HH:mm:ss";
 
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
