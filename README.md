@@ -1,2 +1,2 @@
 # WPF-DataGrid
-Bridge WPF DataGrid Learn
+Bridge WPF DataGrid Learning
