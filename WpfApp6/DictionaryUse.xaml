@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:local="clr-namespace:WpfApp6">
+
+    <FontFamily x:Key="iconFont">/WpfApp6;component/fonts/iconfont/#iconfont</FontFamily>
+    <FontFamily x:Key="songti">宋体</FontFamily>
+    <SolidColorBrush x:Key="mainBackground" Color="#B0E2FF" />
+
+    <local:DateConverter x:Key="dataConverterFull" />
+    <local:DateConverter x:Key="dataConverterShort" Format="yyyy-MM-dd HH:mm:ss" />
+
+</ResourceDictionary>
