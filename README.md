@@ -1,2 +1,2 @@
-# WPF-Grid
+# WPF-DataGrid
 Bridge WPF DataGrid Learam
